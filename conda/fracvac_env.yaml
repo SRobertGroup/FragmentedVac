@@ -1,0 +1,15 @@
+name: fracvac_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - scipy
+  - pandas
+  - notebook
+  - fenics=2019.1.0
+  - python-gmsh=4.11.1
+  - h5py
+  - pip
+  - pip:
+    - "git+https://gitlab.inria.fr/mosaic/bvpy.git@develop" # to get the latest version
+
