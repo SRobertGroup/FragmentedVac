@@ -1,0 +1,2 @@
+ ,Label,Area,Mean,StdDev,Mode,Min,Max,X,Y,XM,YM,Perim.,Circ.,Skew,AR,Round,Solidity
+1,Mesh_subdomain.png,4.592,255,0,255,255,255,3.617,3.553,3.617,3.553,46.597,0.027,NaN,1.000,1.000,0.115
