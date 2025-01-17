@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/916551539.svg)](https://doi.org/10.5281/zenodo.14674290)
 
 # Finite Element Modeling (FEM) of a Single Cell with Fragmented or Fused Vacuole
 
@@ -64,4 +65,4 @@ There are two different configurations for the vacuole:
 ## Citation
 
 Cite the preprint as soon as it is out.
-Meanwhile, cite this github repository.
+Meanwhile, cite this github repository: [![DOI](https://zenodo.org/badge/916551539.svg)](https://doi.org/10.5281/zenodo.14674290).
