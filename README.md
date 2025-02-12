@@ -65,4 +65,4 @@ There are two different configurations for the vacuole:
 ## Citation
 
 Cite the preprint:
-> *Regulation of vacuole fusion, a pivotal mechanism mitigating salt-induced inhibition of root cell growth*. doi:[10.21203/rs.3.rs-5861118/v](https://dx.doi.org/10.21203/rs.3.rs-5861118/v1)
+> Oliver Betz, Wylie Tiernan, Kurtis Shipman, Graciela Veronica Castro, Roya Campos, Adrien Heymans, Olivia Hazelwood, Arif Ashraf, Stéphanie Robert, Cecilia Rodriguez-Furlan, **2025**. *Regulation of vacuole fusion, a pivotal mechanism mitigating salt-induced inhibition of root cell growth*. PREPRINT (Version 1) Research Square. doi:[https://doi.org/10.21203/rs.3.rs-5861118/v1](https://doi.org/10.21203/rs.3.rs-5861118/v1)
