@@ -64,5 +64,5 @@ There are two different configurations for the vacuole:
 
 ## Citation
 
-Cite the preprint as soon as it is out.
-Meanwhile, cite this github repository: [![DOI](https://zenodo.org/badge/916551539.svg)](https://doi.org/10.5281/zenodo.14674290).
+Cite the preprint:
+> *Regulation of vacuole fusion, a pivotal mechanism mitigating salt-induced inhibition of root cell growth*. doi:[10.21203/rs.3.rs-5861118/v](https://dx.doi.org/10.21203/rs.3.rs-5861118/v1)
